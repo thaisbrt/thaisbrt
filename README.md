@@ -1,16 +1,20 @@
-### Hi there 👋
+### Eie, eu sou a Thaís 
 
-<!--
-**thaisbrt/thaisbrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Sou estudante de Analise e Des. de Sistemas na faculdade COTEMIG
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/thaisbrt">
+  <img heigth="180em" src= "https://github-readme-stats.vercel.app/api?username=thaisbrt&show_icons=true&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisbrt&layout=compact&langs_count=16&theme=transparent">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+##
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+
+  
+</div>
