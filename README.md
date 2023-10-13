@@ -8,6 +8,7 @@
 </h1>
 
 - 🔭 Sou estudante de Analise e Des. de Sistemas na faculdade COTEMIG
+- Atualmente estou no 3º periodo
 
 <div>
   <a href="https://github.com/thaisbrt">
