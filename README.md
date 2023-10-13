@@ -1,14 +1,14 @@
 ### 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img  src="https://readme-typing-svg.herokuapp.com/?lines=Eiee!;Eu+sou+a+Thaís+Brasileiro&center=true&size=35">
+    <img  src="https://readme-typing-svg.herokuapp.com/?lines=Eiee!;Sou+a+Thaís&center=true&size=35">
   </a>
 
 ###
 </h1>
 
 - 🔭 Sou estudante de Analise e Des. de Sistemas na faculdade COTEMIG
-- Atualmente estou no 3º periodo
+- :mortar_board: Atualmente estou no 3º periodo
 
 <div>
   <a href="https://github.com/thaisbrt">
