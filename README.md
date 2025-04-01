@@ -7,8 +7,7 @@
 ###
 </h1>
 
-- 🔭 Sou estudante de Analise e Des. de Sistemas na faculdade COTEMIG
-- :mortar_board: Atualmente estou no 4º periodo
+- 🔭 Sou formada em de Analise e Des. de Sistemas na faculdade COTEMIG
 
 <div>
   <a href="https://github.com/thaisbrt">
